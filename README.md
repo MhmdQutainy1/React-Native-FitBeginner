@@ -1,4 +1,4 @@
-# Welcome to your FitBeginner Using Expo app 👋
+# Welcome to your FitBeginner app Using Expo  👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -48,3 +48,12 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+  ## The most important features that were worked on in this project
+  1- Expo Router
+  2- TailwindCss
+  3- Reanimated
+  4- Rapid Api
+  5- Cashing
+  ب
+  يب-
+  ؤسسيبيب
