@@ -49,11 +49,9 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
   ## The most important features that were worked on in this project
-  1- Expo Router
-  2- TailwindCss
-  3- Reanimated
-  4- Rapid Api
-  5- Cashing
-  ب
-  يب-
-  ؤسسيبيب
+  - Expo Router
+  - TailwindCss
+  - Reanimated
+  - Rapid Api
+  - Cashing
+
